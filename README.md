@@ -18,6 +18,10 @@ This repository publishes Codex RAM Log Guard V9: RAM-first operation, a fixed-s
 - [最新 V9 安装包](https://github.com/Leclerc-Hamilton/Codex-Logs-SSD-Solution/releases/latest/download/Codex.Logs.SSD.Fix.V9.-.Latest.zip)
 - [全部 Release 资产](https://github.com/Leclerc-Hamilton/Codex-Logs-SSD-Solution/releases/latest)
 
+## 抖音视频链接
+
+https://v.douyin.com/o0_zbD0-g4M/
+
 ### 一键跳转
 
 [跳转到 English](#english)
