@@ -9,16 +9,16 @@ For questions, contact: dlmu108014301@dlmu.edu.cn or dlmu108014301@qq.com.
 
 This repository publishes Codex RAM Log Guard V9: RAM-first operation, a fixed-size SSD fallback, aggregate log caps, and automatic recovery after reboot. The V9 installer includes the corrected `Verify-CodexRamLogGuardV9.ps1`.
 
-## 中文
+### 中文
 
 完整中文说明见：[中文版本-Codex-Logs-SSD-Solution/README.md](中文版本-Codex-Logs-SSD-Solution/README.md)。
 
-### 快速下载
+#### 快速下载
 
 - [最新 V9 安装包](https://github.com/Leclerc-Hamilton/Codex-Logs-SSD-Solution/releases/latest/download/Codex.Logs.SSD.Fix.V9.-.Latest.zip)
 - [全部 Release 资产](https://github.com/Leclerc-Hamilton/Codex-Logs-SSD-Solution/releases/latest)
 
-## 抖音视频链接
+### 抖音视频链接
 
 https://v.douyin.com/o0_zbD0-g4M/
 
@@ -26,14 +26,18 @@ https://v.douyin.com/o0_zbD0-g4M/
 
 [跳转到 English](#english)
 
-## English
+### English
 
 Full English instructions are available in [英文版本-Codex-Logs-SSD-Solution/README.md](英文版本-Codex-Logs-SSD-Solution/README.md).
 
-### Quick download
+#### Quick download
 
 - [Latest V9 installer](https://github.com/Leclerc-Hamilton/Codex-Logs-SSD-Solution/releases/latest/download/Codex.Logs.SSD.Fix.V9.-.Latest.zip)
 - [All Release assets](https://github.com/Leclerc-Hamilton/Codex-Logs-SSD-Solution/releases/latest)
+
+### China TikTok Link
+
+https://v.douyin.com/o0_zbD0-g4M/
 
 ### One-click navigation
 
